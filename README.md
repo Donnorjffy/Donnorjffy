@@ -1,4 +1,4 @@
-# Hello, I'm Donnorjffy <img src=https://raw.githubusercontent.com/Donnorjffy/Donnorjffy/main/hi.gif width="29px">
+# Hello, I'm Donnorjffy <img src=https://raw.githubusercontent.com/Donnorjffy/Donnorjffy/main/assets/hi.gif width="29px">
 ### 🤹‍♂️ My Skills
 - Java Development
 - Javascript Development
